@@ -1,10 +1,10 @@
 # PushMate
 
 ## Stack MVP
-Back-End: Python Flask
-Front-End: React
-Database: PostgreSQL
-Tool: ORM
+Back-End: Python Flask<br/>
+Front-End: React<br/>
+Database: PostgreSQL<br/>
+Tool: ORM<br/>
 
 ## General Description
 ### Mission
