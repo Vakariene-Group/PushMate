@@ -17,7 +17,9 @@ Application with a wide range customization of activities, goal systems, etc. ba
 Social aspect application is like a social network, but for people who act
 ### 🙋🏻 Target Group of people
 People, who want to make their lives better, people who want to act, students, people who want to find friends
+
 ### 💸 Money???
-Paid subscription with additional features
+Freemium model, offering free basic access with limited features, while a $4.99/month premium plan provides an ad-free experience, advanced activity stats, priority notifications, and custom group creation.
+
 
 
