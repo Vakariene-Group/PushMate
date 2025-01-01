@@ -1,6 +1,6 @@
 # PushMate
 
-##⚙️ Stack MVP
+## ⚙️ Stack MVP
 Back-End: Python Flask<br/>
 Front-End: React<br/>
 Database: PostgreSQL<br/>
